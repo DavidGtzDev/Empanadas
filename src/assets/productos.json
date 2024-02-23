@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "nombre": "Minero",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://assets.elgourmet.com/wp-content/uploads/2023/03/cover_fpa6sn8vqc_empanadas.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Fresa",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://i.ytimg.com/vi/4Cetndxd6wo/maxresdefault.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Nutella",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://i0.wp.com/fortheloveofsazon.com/wp-content/uploads/2020/10/img_1565-1.jpg?fit=2305%2C1537&ssl=1"
+    },
+    {
+        "id": 4,
+        "nombre": "Cajeta",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://img-global.cpcdn.com/recipes/a4eb27d92bc97a0f/400x400cq70/photo.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Piña",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://i.ytimg.com/vi/HEUPO6wE1nI/maxresdefault.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Mango",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://www.mango.org/wp-content/uploads/2017/12/215_1514018839-large.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Frijjoles",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante pharetra, elementum nibh in, faucibus orci. In efficitur tortor nunc, quis finibus mauris viverra et. Fusce fringilla luctus nisl ac lobortis. Aliquam erat volutpat. Nulla in sodales diam. Nulla facilisi. Fusce consectetur tortor turpis, blandit placerat dui condimentum in. Vivamus mollis ex sit amet tellus bibendum porta. Donec nec dui luctus sem congue luctus.",
+        "precio": 20,
+        "calorias": 100, 
+        "grasas": 10, 
+        "carbohidratos": 10, 
+        "proteinas": 10, 
+        "azucares": 10, 
+        "sodio": 10,
+        "imagen": "https://i.ytimg.com/vi/uhhf_HS8BIM/maxresdefault.jpg"
+    }
+]

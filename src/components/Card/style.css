@@ -1,0 +1,65 @@
+.card{
+    background-color: #F7CEB0;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    padding: 10px;
+    width: 35vw;
+    height: 20vh;
+    align-items: center;
+    margin: 10px;
+}
+
+.sub-card{
+    background-color: #AA684B;
+    border-radius: 15px;
+    width: 90%;
+    height: 65%;
+    padding: 10px;
+    color: white;
+}
+
+.card-img{
+    width: 40%;
+    height: 20%;
+    margin-bottom: 20px;
+}
+
+.card-title{
+    font-family: 'Italiana', sans-serif;
+    font-family: 'Italianno', cursive;
+    font-size: 100%;
+}
+
+.card-description{
+    font-size: 50%;
+}
+
+.card-payment{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-price{
+    font-size: 50%;
+    margin-left: 10px;
+}
+
+.card-comprar{
+    width: 40%;
+    height: 35%;
+    font-size: 50%;
+    background-color: #EDA465;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-family: 'Alice', serif;
+}
+
+.card-comprar:hover{
+    background-color: #F7CEB0;
+    color: #AA684B;
+    transition: 0.5s;
+}
